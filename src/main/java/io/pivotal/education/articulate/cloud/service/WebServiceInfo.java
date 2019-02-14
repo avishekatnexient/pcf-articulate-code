@@ -7,4 +7,6 @@ public class WebServiceInfo extends UriBasedServiceInfo {
   public WebServiceInfo(String id, String url) {
     super(id, url);
   }
+  
+  public void test(){}
 }
