@@ -110,4 +110,6 @@ public class EnvironmentHelper {
     logger.warn(vcap + " not defined, returning empty Map");
     return new HashMap<String, String>();
   }
+  
+  private void test(){}
 }
